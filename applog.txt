@@ -1,0 +1,12 @@
+INFO    2022-10-26 19:37:57,410 [main] main.logging.ListaPromedio  - La lista debe ser mayor a 5 numeros
+INFO    2022-10-26 19:37:57,411 [main] main.logging.ListaPromedio  - La lista debe ser mayor a 5 numeros
+INFO    2022-10-26 19:37:57,411 [main] main.logging.ListaPromedio  - La lista debe ser mayor a 10 numeros
+INFO    2022-10-26 19:37:57,412 [main] main.logging.ListaPromedio  -  
+INFO    2022-10-26 19:38:30,110 [main] main.logging.ListaPromedio  - La lista debe ser mayor a 5 numeros
+INFO    2022-10-26 19:38:30,111 [main] main.logging.ListaPromedio  - La lista debe ser mayor a 5 numeros
+INFO    2022-10-26 19:38:30,111 [main] main.logging.ListaPromedio  - La lista debe ser mayor a 10 numeros
+ERROR   2022-10-26 19:38:30,111 [main] main.logging.ListaPromedio  - 
+INFO    2022-10-26 19:39:04,256 [main] main.logging.ListaPromedio  - La lista debe ser mayor a 5 numeros
+INFO    2022-10-26 19:39:04,257 [main] main.logging.ListaPromedio  - La lista debe ser mayor a 5 numeros
+INFO    2022-10-26 19:39:04,257 [main] main.logging.ListaPromedio  - La lista debe ser mayor a 10 numeros
+ERROR   2022-10-26 19:39:04,257 [main] main.logging.ListaPromedio  - ERROR
